@@ -1,0 +1,63 @@
+.nav-item {
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+}
+
+#Portada {
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(220, 221, 223);
+    text-align: center;
+    position: relative;
+    padding: 60px;
+    font-style: unset;
+    font-size: 75px;
+}
+
+#Introduction {
+    text-align: left;
+    color: rgb(214, 253, 248);
+    background-color: rgb(45, 16, 148);
+    position: relative;
+    padding: 30px;
+    font-style: oblique;
+}
+
+#Body {
+    text-align: left;
+    color: rgb(214, 253, 248);
+    background-color: rgb(45, 16, 148);
+    position: relative;
+    padding: 30px;
+    font-style: oblique;
+}
+
+.contenedor {
+    display: flex;
+}
+
+.txt {
+    margin-left: 50px;
+    font-size: large;
+    padding: 10px;
+}
+
+.txr {
+    margin-right: 50px;
+    font-size: large;
+    padding: 10px;    
+}
+
+#reference {
+    background-color: rgb(37, 36, 37);
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    text-align: left;
+    position: relative;
+}
+
+#right {
+    float: right;
+}
